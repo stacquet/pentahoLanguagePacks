@@ -1,30 +1,30 @@
 {
-    "appTitle": "Japanese Language Pack Installer",
-    "appWelcomeMessage": "This plugin installs language definitions for the Japanese language in Pentaho 5",
-    "language": "Japanese",
-    "languageCode": "ja",
-    "version": "0.1",
-    "pentahoVersion": "5.0.3",
+    "appTitle": "French Language Pack Installer",
+    "appWelcomeMessage": "This plugin installs language definitions for the French language in Pentaho 5",
+    "language": "Français",
+    "languageCode": "fr",
+    "version": "0.6",
+    "pentahoVersion": "5.0.1",
     "maintainer": {
-        "name": "Akito Tanaka",
-        "email": "akito.tanaka@ksk-anl.com",
+        "name": "Sylvain Decloix",
+        "email": "s.decloix@atolcd.com",
         "img": "",
-        "url": "http://ksk-anl.com/"
+        "url": "http://www.atolcd.com"
     },
     "credits": [
         {
-            "name": "Akito Tanaka",
-            "email": "akito.tanaka@ksk-anl.com",
+            "name": "Sylvain Tacquet",
+            "email": "sylvain.tacquet@gmail.com",
             "img": "",
-            "url": "http://ksk-anl.com/"
+            "url": "http://www.ossoft.fr"
         }
     ],
     "sponsors": [
         {
-            "name": "Akito Tanaka",
-            "email": "akito.tanaka@ksk-anl.com",
+            "name": "",
+            "email": "",
             "img": "",
-            "url": "http://ksk-anl.com/"
+            "url": ""
         }
     ],
 
